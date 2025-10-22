@@ -48,18 +48,18 @@ Python Data Extraction from PDFs using Python	Using Python tools (PyMuPDF, pdfpl
 ## Core Architecture and Features
 The platform is designed as an end-to-end pipeline covering the full document lifecycle:
 
-- <b>Preprocessing & Classification (P2, P7):</b> Ingesting large, unstructured PDF "blobs," cleaning the data, applying OCR, and classifying individual documents (e.g., Pay Stubs, IDs, Contracts).
+- <b>Preprocessing & Classification (S2, S7):</b> Ingesting large, unstructured PDF "blobs," cleaning the data, applying OCR, and classifying individual documents (e.g., Pay Stubs, IDs, Contracts).
 
-- <b>Extraction & Structuring (P3, P4):</b> Applying specialized extraction logic (Python heuristics, optimal OCR engine) to pull structured data (name, loan amount, salary) from each classified document.
+- <b>Extraction & Structuring (S3, S4):</b> Applying specialized extraction logic (Python heuristics, optimal OCR engine) to pull structured data (name, loan amount, salary) from each classified document.
 
-- <b>Intelligent Retrieval (P5, P6):</b> Utilizing a fine-tuned RAG pipeline to allow users to ask complex, context-aware questions about the entire set of documents.
+- <b>Intelligent Retrieval (S5, S6):</b> Utilizing a fine-tuned RAG pipeline to allow users to ask complex, context-aware questions about the entire set of documents.
 
-- <b>User Interface (P8):</b> Providing a clean Gradio web interface that allows users to chat with the document set, mirroring the user experience of tools like ChatGPT.
+- <b>User Interface (S8):</b> Providing a clean Gradio web interface that allows users to chat with the document set, mirroring the user experience of tools like ChatGPT.
 
 <h1></h1>
 
 ## Running the Project
-Details on setting up the virtual environment, required dependencies, and running the individual project notebooks are located within the dedicated project folders.
+<b>PENDING</b> Details on setting up the virtual environment, required dependencies, and running the individual project notebooks are located within the dedicated project folders.
 
 - <b>Tools Used:</b> Python, Google Colab, Tesseract, PaddleOCR, EasyOCR, LlamaIndex, Gradio, PyMuPDF, pdfplumber.
 
