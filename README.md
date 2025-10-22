@@ -1,7 +1,5 @@
 # AI-Powered-Document-Automation-Platform
 
-
-## AI-Powered Document Automation Platform
 This repository showcases the complete AI-Powered Document Automation Platform developed during the Outamation Advanced AI-Powered Document Insights and Data Extraction Externship. The platform is designed to help businesses improve, automate, and architect critical tasks like document handling and data management, leading to thousands of hours saved and significantly boosted accuracy.
 
 ## The Business Challenge
