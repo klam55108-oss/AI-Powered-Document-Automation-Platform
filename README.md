@@ -16,31 +16,31 @@ The platform was built through a sequence of nine intensive projects, progressin
 
 ## Module	Title	Core Focus / Outcome
 
-### Sprint 1
+### Sprint 1 (S1)
 <b>AI Document Intelligence:</b> Setting the stage and Core Objectives
 
-### Sprint 2
+### Sprint 2 (S2)
 <b>Python & Google Colab:</b> Preparing Mortgage Data for AI	Data cleaning, standardization, and image processing to ensure clean input for AI models.
 
-### Sprint 3
+### Sprint 3 (S3)
 Python Data Extraction from PDFs using Python	Using Python tools (PyMuPDF, pdfplumber) and heuristics (regex, anchor phrases) to extract key fields from digital and scanned PDFs.
 
-### Sprint 4
+### Sprint 4 (S4)
 <b>Optimizing OCR:</b> Comparing Tesseract, PaddleOCR, and EasyOCR	Evaluating and selecting the optimal OCR engine, focusing on layout-aware extraction for complex scanned documents.
 
-### Sprint 5
+### Sprint 5 (S5)
 <b>Implementing RAG:</b> Introduction to Retrieval-Augmented Generation (RAG).	Building a Retrieval-Augmented Generation (RAG) pipeline using LlamaIndex to enable AI to retrieve contextually relevant data.
 
-### Sprint 6
+### Sprint 6 (S6)
 <b>Optimizing RAG Pipelines:</b> Tuning, Chunking, and Metadata Filtering	Optimizing RAG through advanced chunking, metadata filtering, and experimentation with open-source LLMs (Mistral, Phi-2).
 
-### Sprint 7
+### Sprint 7 (S7)
 <b>Blob Processing and Classification:</b> Unlocking Unstructured Data. Designing a modular system to automatically split, classify, and route documents from massive, unstructured "blobs" (e.g., pay slips, contracts).
 
-### Sprint 8
+### Sprint 8 (S8)
 <b>Interactive Chatbot:</b> Building an Interactive Chatbot with Gradio and RAG	Integrating the RAG pipeline into a user-friendly, web-based Q&A interface using Gradio for seamless user interaction.
 
-### Sprint 9
+### Sprint 9 (S9)
 <b>AI-Powered Document Automation Platform:</b> Final Integration. Building the End-to-End AI System	Assembling all components into a complete, rigorously tested, and evaluated platform ready for demonstration and deployment.
 
 <h1></h1>
