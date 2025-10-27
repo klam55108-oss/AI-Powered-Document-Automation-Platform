@@ -12,12 +12,14 @@ This project delivers an end-to-end, modular system that addresses these challen
 <h1></h1>
 
 ## Project Overview (Modules)
-The platform was built through a sequence of nine intensive projects, progressing from foundational data preparation to final system integration and user interface development.
+The platform was built through a sequence of nine intensive sprints, progressing from foundational data preparation to final system integration and user interface development.
 
 ## Module	Title	Core Focus / Outcome
 
 ### Sprint 1 (S1)
 <b>AI Document Intelligence:</b> Setting the stage and Core Objectives
+
+<i>Status Update:</i> [Sprint 1 (S1)](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform/blob/main/Status%20Updates/Status%20Update%20Sprint%201%20AI-Powered%20Document%20Automation%20Platform.pptx)
 
 ### Sprint 2 (S2)
 <b>Python & Google Colab:</b> Preparing Mortgage Data for AI	Data cleaning, standardization, and image processing to ensure clean input for AI models.
