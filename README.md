@@ -19,7 +19,7 @@ The platform was built through a sequence of nine intensive sprints, progressing
 ### Sprint 1 (S1)
 <b>AI Document Intelligence:</b> Setting the stage and Core Objectives
 
-<i>Status Update:</i> [Sprint 1 (S1)](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform/blob/main/Status%20Updates/Status%20Update%20Sprint%201%20AI-Powered%20Document%20Automation%20Platform.pptx)
+<i>Status Update:</i> [Sprint 1 (S1)](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform/blob/main/Status%20Updates/Status%20Update%20Sprint%201%20AI-Powered%20Document%20Automation%20Platform.pdf)
 
 ### Sprint 2 (S2)
 <b>Python & Google Colab:</b> Preparing Mortgage Data for AI	Data cleaning, standardization, and image processing to ensure clean input for AI models.
