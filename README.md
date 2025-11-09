@@ -24,6 +24,8 @@ The platform was built through a sequence of nine intensive sprints, progressing
 ### Sprint 2 (S2)
 <b>Python & Google Colab:</b> Preparing Mortgage Data for AI	Data cleaning, standardization, and image processing to ensure clean input for AI models.
 
+<i>Status Update:</i> [Sprint 2(S2)](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform/blob/main/Status%20Updates/Status%20Update%20Sprint%202%20AI-Powered%20Document%20Automation%20Platform-2.pdf)
+
 ### Sprint 3 (S3)
 Python Data Extraction from PDFs using Python	Using Python tools (PyMuPDF, pdfplumber) and heuristics (regex, anchor phrases) to extract key fields from digital and scanned PDFs.
 
