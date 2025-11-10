@@ -16,6 +16,7 @@ The platform was built through a sequence of nine intensive sprints, progressing
 
 ## Learning Python
 I am currently augmenting my software engineering and product management skills by engaging in focused Python labs, specifically building robust pipelines for document data extraction and preparation.
+
 [Python Document Preparation & Extraction](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction)
 
 ## Module	Title	Core Focus / Outcome
