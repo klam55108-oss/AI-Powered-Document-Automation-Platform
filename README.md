@@ -19,6 +19,8 @@ I am currently augmenting my software engineering and product management skills 
 
 [Python Document Preparation & Extraction](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction)
 
+<h1></h1>
+
 ## Module	Title	Core Focus / Outcome
 
 ### Sprint 1 (S1)
