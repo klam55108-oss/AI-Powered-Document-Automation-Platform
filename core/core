@@ -1,4 +1,6 @@
-##
+## Implementing RAG
+
+Contains the fundamental RAG implementation, optimization logic, and blob processing/classification models.
 
  ## BELOW SECTIONS: PENDING 
  
