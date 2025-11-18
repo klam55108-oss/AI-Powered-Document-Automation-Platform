@@ -42,6 +42,7 @@ I am currently augmenting my software engineering and product management skills 
 
 ### 🟩 Sprint 4 (S4)
   - <b>Optimizing OCR:</b> Comparing Tesseract, PaddleOCR, and EasyOCR	Evaluating and selecting the optimal OCR engine, focusing on layout-aware extraction for complex scanned documents.
+  - <i>Status Update:</i> [Sprint 4(S4)](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform/blob/main/Status%20Updates/Status%20Update%20Sprint%204%20AI-Powered%20Document%20Automation%20Platform.pdf)
 
 ### 🟩 Sprint 5 (S5)
   - <b>Implementing RAG:</b> Introduction to Retrieval-Augmented Generation (RAG).	Building a Retrieval-Augmented Generation (RAG) pipeline using LlamaIndex to enable AI to retrieve contextually relevant data.
