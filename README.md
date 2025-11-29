@@ -25,6 +25,7 @@ I am currently upskilling my software engineering and product management skills 
 - <b>RAG System Foundation:</b> I rapidly acquired knowledge of the Retrieval-Augmented Generation (RAG) system architecture, implementing the core components (LlamaIndex, Vector Indexing, LLMs) to create a functional knowledge base that powers semantic search.
 
 - <b>Optimizing RAG Pipelines:</b> Finally, I focused on high-performance optimization, fine-tuning my pipeline's efficiency by selecting fast models like Gemini 2.5 Flash, implementing advanced chunking strategies, and deploying a memory-aware, conversational interface.
+<br><br>
 
 This practical experience has solidified my ability to move beyond theoretical concepts and architect, build, and deploy production-ready AI solutions for document intelligence.
 
