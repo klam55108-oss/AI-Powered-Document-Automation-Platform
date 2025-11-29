@@ -46,6 +46,7 @@ I am currently augmenting my software engineering and product management skills 
 
 ### 🟩 Sprint 5 (S5)
   - <b>Implementing RAG:</b> Introduction to Retrieval-Augmented Generation (RAG).	Building a Retrieval-Augmented Generation (RAG) pipeline using LlamaIndex to enable AI to retrieve contextually relevant data.
+  - <i>Status Update:</i> [Sprint 5(S5)](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform/blob/main/Status%20Updates/Status%20Update%20Sprint%205%20AI-Powered%20Document%20Automation%20Platform.pdf)
 
 ### 🟩 Sprint 6 (S6)
   - <b>Optimizing RAG Pipelines:</b> Tuning, Chunking, and Metadata Filtering	Optimizing RAG through advanced chunking, metadata filtering, and experimentation with open-source LLMs (Mistral, Phi-2).
