@@ -17,10 +17,20 @@ The platform was built through a sequence of nine intensive sprints, progressing
 <h1></h1>
 
 ## Learning Python
-I am currently augmenting my software engineering and product management skills by engaging in focused Python labs, specifically building robust pipelines for document data extraction and preparation.
 
-- [Python Document Preparation & Extraction](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction)
-- [RAG Pipelines](https://github.com/LashawnFofung/RAG-Pipelines)
+I am currently upskilling my software engineering and product management skills by applying focused Python labs to real-world AI challenges. My journey to build the AI-Powered Document Automation Platform has been a comprehensive deep dive into three critical areas:
+
+- <b>Data Extraction & Preparation:</b> I began by building robust pipelines for document data ingestion. This involved mastering tools like PyMuPDF to parse and transform raw, messy PDF structures into clean, standardized data—the essential first step for any reliable AI application.
+
+- <b>RAG System Foundation:</b> I rapidly acquired knowledge of the Retrieval-Augmented Generation (RAG) system architecture, implementing the core components (LlamaIndex, Vector Indexing, LLMs) to create a functional knowledge base that powers semantic search.
+
+- <b>Optimizing RAG Pipelines:</b> Finally, I focused on high-performance optimization, fine-tuning my pipeline's efficiency by selecting fast models like Gemini 2.5 Flash, implementing advanced chunking strategies, and deploying a memory-aware, conversational interface.
+
+This practical experience has solidified my ability to move beyond theoretical concepts and architect, build, and deploy production-ready AI solutions for document intelligence.
+
+- <b>View Repo:</b>
+  - [Python Document Preparation & Extraction](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction)
+  - [RAG Pipelines](https://github.com/LashawnFofung/RAG-Pipelines)
 
 <h1></h1>
 
