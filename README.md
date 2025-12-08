@@ -62,6 +62,7 @@ This practical experience has solidified my ability to move beyond theoretical c
 
 ### 🟩 Sprint 6 (S6)
   - <b>Optimizing RAG Pipelines:</b> Tuning, Chunking, and Metadata Filtering	Optimizing RAG through advanced chunking, metadata filtering, and experimentation with open-source LLMs (Mistral, Phi-2).
+  - <i>White Paper:</i> [Embedding Model Scorecard Analysis](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform/blob/main/White-Paper/Embedding%20Model%20Scorecard%20Analysis.pdf)
 
 ### 🟩 Sprint 7 (S7)
   - <b>Blob Processing and Classification:</b> Unlocking Unstructured Data. Designing a modular system to automatically split, classify, and route documents from massive, unstructured "blobs" (e.g., pay slips, contracts).
