@@ -63,6 +63,7 @@ This practical experience has solidified my ability to move beyond theoretical c
 ### 🟩 Sprint 6 (S6)
   - <b>Optimizing RAG Pipelines:</b> Tuning, Chunking, and Metadata Filtering	Optimizing RAG through advanced chunking, metadata filtering, and experimentation with open-source LLMs (Mistral, Phi-2).
   - <i>Technical Evaluation Report:</i> [Embedding Model Scorecard Analysis](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform/blob/main/Technical%20Evaluation%20Reports/Embedding%20Model%20Scorecard%20Analysis.pdf)
+  - <i>Technical Evaluation Report:</i> [Comparative Analysis of Large Language Models for Retrieval-Augumented Generation (RAG)](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform/blob/main/Technical%20Evaluation%20Reports/Comparative%20Analysis%20of%20Large%20Language%20Models%20%20for%20Retrieval-Augmented%20Generation%20(RAG).pdf)
   - <i>Status Update:</i> [Sprint 6(S6)](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform/blob/main/Status%20Updates/Status%20Update%20Sprint%206%20AI-Powered%20Document%20Automation%20Platform.pdf)
 
 ### 🟩 Sprint 7 (S7)
