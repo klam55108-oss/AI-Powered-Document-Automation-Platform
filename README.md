@@ -71,6 +71,7 @@ This practical experience has solidified my ability to move beyond theoretical c
 
 ### 🟩 Sprint 8 (S8)
   - <b>Interactive Chatbot:</b> Building an Interactive Chatbot with Gradio and RAG	Integrating the RAG pipeline into a user-friendly, web-based Q&A interface using Gradio for seamless user interaction.
+  - <i>view Presentation PDF:</i> [Full RAG Pipeline with Interactive Gradio Chatbot](https://github.com/LashawnFofung/RAG-Pipelines/blob/main/Gradio/Task_Full_RAG_Pipeline_with_Interactive_Gradio_Chatbot.ipynb)
 
 ### 🟩 Sprint 9 (S9)
   - <b>AI-Powered Document Automation Platform:</b> Final Integration. Building the End-to-End AI System	Assembling all components into a complete, rigorously tested, and evaluated platform ready for demonstration and deployment.
