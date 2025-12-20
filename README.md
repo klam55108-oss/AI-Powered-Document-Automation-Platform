@@ -32,6 +32,8 @@ This practical experience has solidified my ability to move beyond theoretical c
 - <b>View Repo:</b>
   - [Python Document Preparation & Extraction](https://github.com/LashawnFofung/Python-Document-Preparation-and-Extraction)
   - [RAG Pipelines](https://github.com/LashawnFofung/RAG-Pipelines)
+    - AI-Powered Document Automation Platform: A RAG Journey 🚀
+    - This repository documents my technical evolution from writing basic LLM prompts to engineering a production-ready Retrieval-Augmented Generation (RAG) Proof of Concept (PoC). Each folder and notebook represents a critical milestone in mastering LlamaIndex, open-source model deployment, and intelligent document orchestration.  
 
 <h1></h1>
 
