@@ -74,6 +74,7 @@ This practical experience has solidified my ability to move beyond theoretical c
 
 ### 🟩 Sprint 8 (S8)
   - <b>Interactive Chatbot:</b> Building an Interactive Chatbot with Gradio and RAG	Integrating the RAG pipeline into a user-friendly, web-based Q&A interface using Gradio for seamless user interaction.
+  - <i>Status Update:</i> [Sprint 8(S8)](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform/blob/main/Status%20Updates/Status%20Update%20Sprint%208%20AI-Powered%20Document%20Automation%20Platform.pdf)
   - <i>view:</i> [Colab Notebook: Full RAG Pipeline with Interactive Gradio Chatbot](https://github.com/LashawnFofung/RAG-Pipelines/blob/main/Gradio/Task_Full_RAG_Pipeline_with_Interactive_Gradio_Chatbot.ipynb)
    - <i>view</i> [Presentation PDF: Full RAG Pipeline with Interactive Gradio Chatbot](https://github.com/LashawnFofung/RAG-Pipelines/blob/main/Presentation/Full%20RAG%20Pipeline%20with%20Interactive%20Gradio%20Chatbot%20-%20Demo%20and%20Reflection.pdf)
    - <i>view:</i> [Proof of Concept (POC) Colab Notebook: AI-Powered Document Intelligence Automation Platform with Gradio Chatbot](https://github.com/LashawnFofung/RAG-Pipelines/blob/main/POC/Task_Enhanced_Document_Q%26A_System_with_Intelligent_RAG_Pipeline.ipynb)
