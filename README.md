@@ -70,11 +70,12 @@ This practical experience has solidified my ability to move beyond theoretical c
 
 ### 🟩 Sprint 7 (S7)
   - <b>Blob Processing and Classification:</b> Unlocking Unstructured Data. Designing a modular system to automatically split, classify, and route documents from massive, unstructured "blobs" (e.g., pay slips, contracts).
+  - <i>Status Update:</i> [Sprint 7(S7)](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform/blob/main/Status%20Updates/Status%20Update%20Sprint%207%20AI-Powered%20Document%20Automation%20Platform.pdf)
 
 ### 🟩 Sprint 8 (S8)
   - <b>Interactive Chatbot:</b> Building an Interactive Chatbot with Gradio and RAG	Integrating the RAG pipeline into a user-friendly, web-based Q&A interface using Gradio for seamless user interaction.
-  - <i>view:</i> [Colab Notebook: Full RAG Pipeline with Interactive Gradio Chatbot](https://github.com/LashawnFofung/RAG-Pipelines/blob/main/Gradio/Task_Full_RAG_Pipeline_with_Interactive_Gradio_Chatbot.ipynb)
-   - <i>view</i> [Presentation PDF: Full RAG Pipeline with Interactive Gradio Chatbot](https://github.com/LashawnFofung/RAG-Pipelines/blob/main/Presentation/Full%20RAG%20Pipeline%20with%20Interactive%20Gradio%20Chatbot%20-%20Demo%20and%20Reflection.pdf)
+  - <i>view:</i> [Proof of Concept (POC) Colab Notebook: Full RAG Pipeline with Interactive Gradio Chatbot](https://github.com/LashawnFofung/RAG-Pipelines/blob/main/Gradio/Task_Full_RAG_Pipeline_with_Interactive_Gradio_Chatbot.ipynb)
+   - <i>view</i> [Proof of Concept (POC) Presentation PDF: Full RAG Pipeline with Interactive Gradio Chatbot](https://github.com/LashawnFofung/RAG-Pipelines/blob/main/Presentation/Full%20RAG%20Pipeline%20with%20Interactive%20Gradio%20Chatbot%20-%20Demo%20and%20Reflection.pdf)
   
 
 ### 🟩 Sprint 9 (S9)
