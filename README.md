@@ -79,7 +79,7 @@ This practical experience has solidified my ability to move beyond theoretical c
    - <i>view:</i> [Presentation PDF: Full RAG Pipeline with Interactive Gradio Chatbot](https://github.com/LashawnFofung/RAG-Pipelines/blob/main/Presentation/Full%20RAG%20Pipeline%20with%20Interactive%20Gradio%20Chatbot%20-%20Demo%20and%20Reflection.pdf)
    - <i>view:</i> [Proof of Concept (POC) Colab Notebook: AI-Powered Document Intelligence Automation Platform with Gradio Chatbot](https://github.com/LashawnFofung/RAG-Pipelines/blob/main/POC/Task_Enhanced_Document_Q%26A_System_with_Intelligent_RAG_Pipeline.ipynb)
    - <i>view:</i> [Proof of Concept (POC) Presentation PDF: AI-Powered Document Intelligence Automation Platform with Gradio Chatbot](https://github.com/LashawnFofung/RAG-Pipelines/blob/main/Presentation/AI-Powered%20Document%20Intelligence%20Automation%20Platform%20with%20Gradio%20Chatbot%20-%20Demo%20and%20Reflection.pdf)
-   - <i>View Live POC:</i> [Live POC](https://huggingface.co/spaces/lfofung/AI-Powered-Document-Intelligence-Automation-Platform)
+   - <i>View Web-based POC:</i> [Live POC](https://huggingface.co/spaces/lfofung/AI-Powered-Document-Intelligence-Automation-Platform)
 
 ### 🟩 Sprint 9 (S9)
   - <b>AI-Powered Document Automation Platform:</b> Final Integration. Building the End-to-End AI System	Assembling all components into a complete, rigorously tested, and evaluated platform ready for demonstration and deployment.
