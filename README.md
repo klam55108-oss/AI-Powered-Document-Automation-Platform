@@ -1,8 +1,51 @@
-# AI-Powered-Document-Automation-Platform
+# 🤖 AI-Powered-Document-Automation-Platform (MVP)
 
-This repository showcases the complete AI-Powered Document Automation Platform developed during the Outamation Advanced AI-Powered Document Insights and Data Extraction Externship. The platform is designed to help businesses improve, automate, and architect critical tasks like document handling and data management, leading to thousands of hours saved and significantly boosted accuracy.
+## Production-Grade Retrieval-Augmented Generation (RAG) & Document Governance
+
+This repository showcases the complete AI-Powered Document Automation Platform developed during the Outamation Advanced AI-Powered Document Insights and Data Extraction Externship. The platform is designed to help businesses improve, automate, and architect critical tasks like document handling and data management, leading to thousands of hours saved and significantly boosted accuracy. This platform is a high-performance solution designed for complex, high-volume document environments such as Real Estate, Healtcare, Legal, Finance, and HR. Unlike generic RAG systems that often suffer from "Context Contamination," this system uses **Intelligent Boundary Detection** and **Metadata-Rich Chunking** to isolate and retrieve precise document segments with surgical accuracy.
+
+<br><br>
+
+
+### 🛠️ MVP Objectives
+
+- **Contextual Fidelity:** Eliminates hallucinations by segregating the vector space based on document classification.
+- **Intelligent Automation:** Automatically splits bulk "blob" PDFs (e.g., a 50-page file containing multiple distinct contracts) into logical units.
+- **Hardware-Aware Versatility:** Dynamic toggling between Gemini 2.0 (API), Mistral 7B, and Phi-2 (Local) with automated VRAM "Deep Purges" to - maintain stability on T4 GPUs.
+- **Audit-Ready Compliance:** Every response undergoes a Quality Audit Gate (measuring Faithfulness, Relevance, and Context Density) before being displayed.
+
+<br><br>
+
+### 🏗️ Technical Architecture
+
+The system follows a modular Six-Stage Execution Cycle:
+- **Ingestion Layer:** Hybrid OCR (PyMuPDF + Tesseract) extracts text and images while preserving spatial metadata.
+- **Intelligence Layer:** LLM-based classification into a custom taxonomy (e.g., Invoices, Land Deeds, Pay Slips) and automated page boundary detection.
+- **Storage Layer:** LlamaIndex + FAISS create Segregated Silos using metadata filters to prevent data leakage between different document types.
+- **Orchestration Layer:** A Python-generator-based "Thinking Loop" manages asynchronous status updates and hardware state safety.
+- **Audit Layer:** Automated calculation of the RAG Triad metrics and real-time performance tracking.
+- **Presentation Layer:** An Obsidian-themed Gradio UI featuring real-time PDF previews and exportable PDF audit reports.
+
+<br><br>
+
+### 🌟 Core Capabilities
+- **Multi-Modal Routing:** Automatically detects if a query relates to "Financial Amounts" vs. "Legal Terms" and targets the specific document silo.
+- **VRAM Management:** Implements "Safety Gate" logic (deep_purge_gpu) to allow seamless switching between heavy local models and API-based models without system crashes.
+- **Source Attribution:** Every AI response includes clickable citations (e.g., "Source: Invoice (p. 4)") to ensure human-in-the-loop verification.
+- **Exportable Audits:** Generate professional PDF summaries of chat history and performance metrics for compliance records.
+
+<br><br>
+
+### 🛠️ Tools & Technologies
+
+- **Frameworks:** LlamaIndex (Orchestration), Gradio (UI), FAISS (Vector DB).
+- **OCR Engines:** Tesseract, PyMuPDF.
+- **Models:** Gemini 2.0 Flash, Mistral 7B, Phi-2.
+- **Environment:** Google Colab, Python 3.x.
 
 <h1></h1>
+
+<h1>ABOUT EXTERNSHIP</h1>
 
 ## The Business Challenge
 Every day, companies handle thousands of complex, unstructured documents (e.g., loan applications, contracts). Extracting information quickly and accurately is a major challenge, as documents vary in format, often contain missing data, or require specialized layout-aware processing.
