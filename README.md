@@ -4,9 +4,9 @@
 
 This repository showcases the complete AI-Powered Document Automation Platform developed during the Outamation Advanced AI-Powered Document Insights and Data Extraction Externship. The platform is designed to help businesses improve, automate, and architect critical tasks like document handling and data management, leading to thousands of hours saved and significantly boosted accuracy. This platform is a high-performance solution designed for complex, high-volume document environments such as Real Estate, Healtcare, Legal, Finance, and HR. Unlike generic RAG systems that often suffer from "Context Contamination," this system uses **Intelligent Boundary Detection** and **Metadata-Rich Chunking** to isolate and retrieve precise document segments with surgical accuracy.
 
-<br><br>
+<br>
 
-
+------------- 
 ### 🛠️ MVP Objectives
 
 - **Contextual Fidelity:** Eliminates hallucinations by segregating the vector space based on document classification.
@@ -14,8 +14,9 @@ This repository showcases the complete AI-Powered Document Automation Platform d
 - **Hardware-Aware Versatility:** Dynamic toggling between Gemini 2.0 (API), Mistral 7B, and Phi-2 (Local) with automated VRAM "Deep Purges" to - maintain stability on T4 GPUs.
 - **Audit-Ready Compliance:** Every response undergoes a Quality Audit Gate (measuring Faithfulness, Relevance, and Context Density) before being displayed.
 
-<br><br>
+<br>
 
+-------------
 ### 🏗️ Technical Architecture
 
 The system follows a modular Six-Stage Execution Cycle:
@@ -26,30 +27,41 @@ The system follows a modular Six-Stage Execution Cycle:
 - **Audit Layer:** Automated calculation of the RAG Triad metrics and real-time performance tracking.
 - **Presentation Layer:** An Obsidian-themed Gradio UI featuring real-time PDF previews and exportable PDF audit reports.
 
+<br> 
+
+-----
+
+### 🔄 END-to-END WORKFLOW 
+ The platform manages the complete document lifecycle through a specialized four-stage pipeline:
+
+  * **1. Document Discovery & Classification (S2, S7)**
+    * Automatically ingests unstructured PDF "blobs" (bulk uploads).
+    * Cleans, applies OCR,and segments files into logical categories (Pay Stubs, IDs, Contracts) using intelligent boundary detection to ensure zero data leakage.
+
+* **2. Heuristic Data Extraction (S3, S4)**
+    * Employs specialized Python heuristics and layout-aware OCR engines.
+    * Transforms raw text into structured JSON/DataFrames, capturing critical fields like loan amounts and names with high precision.
+
+* **3. Semantic Context Retrieval (S5, S6)**
+    * Powered by a fine-tuned RAG pipeline utilizing LlamaIndex.
+    * Enables deep-context querying, allowing users to ask complex questions across the entire repository without manual searching.
+
+* **4. Human-in-the-Loop Interface (S8)**
+    * A production-ready Gradio web interface providing a familiar, chat-based UX.
+    * Features real-time source citations and document previews for instant verification of AI responses.
+
 <br>
 
-- ### Functional Pipeline / System Capabilities
-  The platform is designed as an end-to-end pipeline covering the full document lifecycle:
-
-  - <b>Preprocessing & Classification (S2, S7):</b> Ingesting large, unstructured PDF "blobs," cleaning the data, applying OCR, and classifying individual documents (e.g., Pay Stubs, IDs, Contracts).
-  
-  - <b>Extraction & Structuring (S3, S4):</b> Applying specialized extraction logic (Python heuristics, optimal OCR engine) to pull structured data (name, loan amount, salary) from each classified document.
-  
-  - <b>Intelligent Retrieval (S5, S6):</b> Utilizing a fine-tuned RAG pipeline to allow users to ask complex, context-aware questions about the entire set of documents.
-  
-  - <b>User Interface (S8):</b> Providing a clean Gradio web interface that allows users to chat with the document set, mirroring the user experience of tools like ChatGPT.
-
-
-<br><br>
-
+-------------
 ### 🌟 Core Capabilities
 - **Multi-Modal Routing:** Automatically detects if a query relates to "Financial Amounts" vs. "Legal Terms" and targets the specific document silo.
 - **VRAM Management:** Implements "Safety Gate" logic (deep_purge_gpu) to allow seamless switching between heavy local models and API-based models without system crashes.
 - **Source Attribution:** Every AI response includes clickable citations (e.g., "Source: Invoice (p. 4)") to ensure human-in-the-loop verification.
 - **Exportable Audits:** Generate professional PDF summaries of chat history and performance metrics for compliance records.
 
-<br><br>
+<br>
 
+-------------
 ### 🛠️ Tools & Technologies
 
 - **Frameworks:** LlamaIndex (Orchestration), Gradio (UI), FAISS (Vector DB).
@@ -57,7 +69,9 @@ The system follows a modular Six-Stage Execution Cycle:
 - **Models:** Gemini 2.0 Flash, Mistral 7B, Phi-2.
 - **Environment:** Google Colab, Python 3.x.
 
-<h1></h1>
+<br>
+
+-------------
 
 <h1>ABOUT EXTERNSHIP</h1>
 
