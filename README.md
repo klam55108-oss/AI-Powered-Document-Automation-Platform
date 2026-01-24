@@ -29,9 +29,9 @@ The system follows a modular Six-Stage Execution Cycle:
 
 <br> 
 
------
+-------------
+### 🔄 End-to-End Workflow
 
-### 🔄 END-to-END WORKFLOW 
  The platform manages the complete document lifecycle through a specialized four-stage pipeline:
 
   * **1. Document Discovery & Classification (S2, S7)**
@@ -54,6 +54,7 @@ The system follows a modular Six-Stage Execution Cycle:
 
 -------------
 ### 🌟 Core Capabilities
+
 - **Multi-Modal Routing:** Automatically detects if a query relates to "Financial Amounts" vs. "Legal Terms" and targets the specific document silo.
 - **VRAM Management:** Implements "Safety Gate" logic (deep_purge_gpu) to allow seamless switching between heavy local models and API-based models without system crashes.
 - **Source Attribution:** Every AI response includes clickable citations (e.g., "Source: Invoice (p. 4)") to ensure human-in-the-loop verification.
