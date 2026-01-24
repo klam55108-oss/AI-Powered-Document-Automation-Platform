@@ -28,6 +28,20 @@ The system follows a modular Six-Stage Execution Cycle:
 
 <br><br>
 
+- ## Features (Core Architecture)
+  The platform is designed as an end-to-end pipeline covering the full document lifecycle:
+
+  - <b>Preprocessing & Classification (S2, S7):</b> Ingesting large, unstructured PDF "blobs," cleaning the data, applying OCR, and classifying individual documents (e.g., Pay Stubs, IDs, Contracts).
+  
+  - <b>Extraction & Structuring (S3, S4):</b> Applying specialized extraction logic (Python heuristics, optimal OCR engine) to pull structured data (name, loan amount, salary) from each classified document.
+  
+  - <b>Intelligent Retrieval (S5, S6):</b> Utilizing a fine-tuned RAG pipeline to allow users to ask complex, context-aware questions about the entire set of documents.
+  
+  - <b>User Interface (S8):</b> Providing a clean Gradio web interface that allows users to chat with the document set, mirroring the user experience of tools like ChatGPT.
+
+
+<br><br>
+
 ### 🌟 Core Capabilities
 - **Multi-Modal Routing:** Automatically detects if a query relates to "Financial Amounts" vs. "Legal Terms" and targets the specific document silo.
 - **VRAM Management:** Implements "Safety Gate" logic (deep_purge_gpu) to allow seamless switching between heavy local models and API-based models without system crashes.
@@ -129,22 +143,5 @@ This practical experience has solidified my ability to move beyond theoretical c
 
 <h1></h1>
 
-## Core Architecture and Features
-The platform is designed as an end-to-end pipeline covering the full document lifecycle:
 
-- <b>Preprocessing & Classification (S2, S7):</b> Ingesting large, unstructured PDF "blobs," cleaning the data, applying OCR, and classifying individual documents (e.g., Pay Stubs, IDs, Contracts).
 
-- <b>Extraction & Structuring (S3, S4):</b> Applying specialized extraction logic (Python heuristics, optimal OCR engine) to pull structured data (name, loan amount, salary) from each classified document.
-
-- <b>Intelligent Retrieval (S5, S6):</b> Utilizing a fine-tuned RAG pipeline to allow users to ask complex, context-aware questions about the entire set of documents.
-
-- <b>User Interface (S8):</b> Providing a clean Gradio web interface that allows users to chat with the document set, mirroring the user experience of tools like ChatGPT.
-
-<h1></h1>
-
-## Running the Project
-<b>PENDING</b> Details on setting up the virtual environment, required dependencies, and running the individual project notebooks are located within the dedicated project folders.
-
-- <b>Tools Used:</b> Python, Google Colab, Tesseract, PaddleOCR, EasyOCR, LlamaIndex, Gradio, PyMuPDF, pdfplumber.
-
-- <b>Models Explored:</b> Open-source LLMs (Mistral, Phi-2) for RAG comparison.
