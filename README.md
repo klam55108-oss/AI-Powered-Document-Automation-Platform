@@ -26,9 +26,9 @@ The system follows a modular Six-Stage Execution Cycle:
 - **Audit Layer:** Automated calculation of the RAG Triad metrics and real-time performance tracking.
 - **Presentation Layer:** An Obsidian-themed Gradio UI featuring real-time PDF previews and exportable PDF audit reports.
 
-<br><br>
+<br>
 
-- ## Features (Core Architecture)
+- ### Functional Pipeline / System Capabilities
   The platform is designed as an end-to-end pipeline covering the full document lifecycle:
 
   - <b>Preprocessing & Classification (S2, S7):</b> Ingesting large, unstructured PDF "blobs," cleaning the data, applying OCR, and classifying individual documents (e.g., Pay Stubs, IDs, Contracts).
