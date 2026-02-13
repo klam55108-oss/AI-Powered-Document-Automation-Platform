@@ -155,6 +155,8 @@ This practical experience has solidified my ability to move beyond theoretical c
 
 ### 🟩 Sprint 9 (S9)
   - <b>AI-Powered Document Automation Platform:</b> Final Integration. Building the End-to-End AI System	Assembling all components into a complete, rigorously tested, and evaluated platform ready for demonstration and deployment.
+  - <i>Status Update:</i> [Sprint 9(S9)]()
+  - <i>view:</i> [Colab Notebook: AI-Powered Document Auotmation Platform]()
 
 <h1></h1>
 
