@@ -1,5 +1,9 @@
 # DEMO: AI-Powered Document Automation Platform
 
+<img src="https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform/blob/main/DEMO/DEMO%20AI-Powered%20Document%20Automation%20Platform.png” width="200"  height=“4”  alt=“DEMO PNG”>
+
+
+
 
 ## Table of Contents
 
