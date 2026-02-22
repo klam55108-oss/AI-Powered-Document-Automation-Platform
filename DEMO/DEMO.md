@@ -9,7 +9,7 @@
 
 - [UI WalkThrough](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform/blob/main/DEMO/DEMO.md#demo-ui-walkthrough)
 
-- [Gemini Ingestion & Hardcoded Prompts](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform/edit/main/DEMO/DEMO.md#demo-gemini-ingestion--harcoded-prompts)
+- [Gemini Ingestion & Hardcoded Prompts](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform/blob/main/DEMO/DEMO.md#demo-gemini-ingestion--harcoded-prompts)
 
 ---------------
 
@@ -60,11 +60,17 @@ The final stage of the demo showcases Automated Intelligence via Hardcoded Promp
 
 The core of the platform’s accuracy lies in its Metadata-Rich Vector Architecture. Unlike generic systems that throw all text into a single "bucket," this platform uses an Intelligent Router that classifies every uploaded page into a specific business taxonomy (e.g., Mortgage_Contract vs. Lender_Fee_Sheet). When you use the "Find Amounts" prompt, the system doesn't just perform a keyword search; it triggers a specialized Amount Extraction Pipeline:
 
-🔍 <b>Silo-Specific Filtering:</b> The UI selection creates a hard metadata constraint at the database layer. If you filter for "Lender Fee Sheets," the vector engine physically ignores "Pay Slips" or "Bank Statements," even if they contain similar financial terminology. This eliminates "Context Contamination" and ensures the 32k context window of Gemini 2.0 Flash is populated only with relevant data.
+- 🔍 <b>Silo-Specific Filtering</b> 
 
-🔗 <b>Deterministic Regex Hybridization:</b> To achieve the high Faithfulness scores required for finance, the platform combines LLM reasoning with Deterministic Regex Scanners. While Gemini interprets the meaning of a fee, the Regex engine ensures every decimal-accurate figure is captured from the raw text, cross-referencing them before generating the final response.
+  The UI selection creates a hard metadata constraint at the database layer. If you filter for "Lender Fee Sheets," the vector engine physically ignores "Pay Slips" or "Bank Statements," even if they contain similar financial terminology. This eliminates "Context Contamination" and ensures the 32k context window of Gemini 2.0 Flash is populated only with relevant data.
 
-⭐️ <b>Page-Level Attribution:</b> Because the ingestion layer preserves the "Physical Layer" of the document, every amount found is tagged with a doc_id and page_num. This allows the "Find Amounts" feature to provide clickable citations, enabling a "Human-in-the-loop" to verify the AI's findings against the Document Viewer in real-time.
+- 🔗 <b>Deterministic Regex Hybridization</b> 
+
+  To achieve the high Faithfulness scores required for finance, the platform combines LLM reasoning with Deterministic Regex Scanners. While Gemini interprets the meaning of a fee, the Regex engine ensures every decimal-accurate figure is captured from the raw text, cross-referencing them before generating the final response.
+
+- ⭐️ <b>Page-Level Attribution</b> 
+
+  Because the ingestion layer preserves the "Physical Layer" of the document, every amount found is tagged with a doc_id and page_num. This allows the "Find Amounts" feature to provide clickable citations, enabling a "Human-in-the-loop" to verify the AI's findings against the Document Viewer in real-time.
 
 
 
