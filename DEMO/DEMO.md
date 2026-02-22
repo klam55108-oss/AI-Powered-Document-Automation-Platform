@@ -9,7 +9,7 @@
 
 - [UI WalkThrough](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform/blob/main/DEMO/DEMO.md#demo-ui-walkthrough)
 
-- [Gemini Ingestion & Hardcoded Prompts](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform/blob/main/DEMO/DEMO.md#demo-gemini-ingestion--harcoded-prompts)
+- [Gemini - Document Ingestion & Hardcoded Prompts](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform/blob/main/DEMO/DEMO.md#demo-gemini-ingestion--harcoded-prompts)
 
 - [Gemini Export Chat History PDF](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform/blob/main/DEMO/DEMO.md#demo-gemini-export-chat-history-pdf)
 
@@ -42,7 +42,7 @@ The third tab is the Audit Performance Dashboard, a specialized diagnostic envir
 <h1></h1>
 
 
-## DEMO: Gemini Ingestion & Harcoded Prompts
+## DEMO: Gemini Document Ingestion & Harcoded Prompts
  
 - <i>Review DEMO Video:</i> [HERE](https://youtu.be/FG8nZZfnJ78)
 
@@ -90,7 +90,21 @@ The layout for this feature is integrated directly into the Chat Operations tab 
 <h1></h1>
 
 
+## Switch LLM & Mistral - Document Ingestion with Hardcoded Prompts
+ 
+- <i>Review DEMO Video:</i> [HERE](https://youtu.be/_qzGlJbhN5U)
+
+In this demo of the AI-Powered Document Intelligence Automation Platform 🤖, we showcase the seamless process of switching the core engine to the Mistral LLM 🧠. High-performance document automation requires flexibility, and this layout demonstrates how users can instantly toggle between models to find the perfect balance of reasoning and speed for their specific datasets. By selecting Mistral from the control panel, the platform reconfigures its processing logic to leverage Mistral’s unique capabilities for the tasks ahead ⚡.
+
+The second part of the walkthrough focuses on the Document Ingestion and Indexing pipeline 📥. Watch as a complex document is uploaded and immediately put through our intelligent boundary detection system. The platform doesn't just store the text; it creates a metadata-rich index that maps out the document's structure in real-time 🔍. This indexing phase is critical because it ensures that when we query the system later, the Mistral model can retrieve the exact "Document Silos" needed without getting lost in unrelated data 🏗️.
+
+Finally, we put the system to work using Hardcoded Business Prompts 📝. Instead of typing manual queries, we trigger automated logic gates designed for professional workflows, such as high-level document summarization and precision amount extraction 💰. You will see the Mistral LLM parse the indexed data to identify key financial figures and provide a concise executive summary with zero manual intervention. This demonstration highlights how pre-configured prompts can turn a raw PDF into structured, actionable intelligence in seconds 🚀.
+
+<h1></h1>
+
+
 ## BELOW SECTIONS: PENDING 
  
 - <i>Review DEMO Video:</i> [HERE]()
+
 
