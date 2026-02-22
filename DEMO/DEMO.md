@@ -13,6 +13,8 @@
 
 - [Gemini Export Chat History PDF](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform/blob/main/DEMO/DEMO.md#demo-gemini-export-chat-history-pdf)
 
+- [Switch LLM & Mistral - Docuement Ingestion with Hardcoded Prompts](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform/blob/main/DEMO/DEMO.md#switch-llm--mistral---document-ingestion-with-hardcoded-prompts)
+
 ---------------
 
  ## DEMO: UI WalkThrough
