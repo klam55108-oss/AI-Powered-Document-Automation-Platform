@@ -8,6 +8,7 @@
 ## Table of Contents
 
 - [UI WalkThrough](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform/blob/main/DEMO/DEMO.md#demo-ui-walkthrough)
+
 - [Gemini Ingestion & Hardcoded Prompts](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform/edit/main/DEMO/DEMO.md#demo-gemini-ingestion--harcoded-prompts)
 
 ---------------
@@ -43,26 +44,27 @@ The third tab is the Audit Performance Dashboard, a specialized diagnostic envir
  
 - <i>Review DEMO Video:</i> [HERE](https://youtu.be/FG8nZZfnJ78)
 
-🟩 Document Ingestion & Indexing
+🟩 <b>Document Ingestion & Indexing</b>
+
 The first section of the demo highlights the Seamless Ingestion & Indexing Pipeline, where raw documents are uploaded and transformed into machine-readable intelligence. As the file is processed, the system utilizes Gemini 2.0 Flash to perform intelligent boundary detection, segmenting the document into logical silos while simultaneously generating high-dimensional vector embeddings. This backend process ensures that every paragraph and data point is indexed with rich metadata, setting the stage for high-precision retrieval and eliminating the "context contamination" common in standard RAG systems.
 
-🟩 Document Viewer
+🟩 <b>Document Viewer</b>
 
 The second part of the layout features the Integrated Document Viewer, a specialized interface that allows for manual verification of the digital twin. This tab provides a high-fidelity, page-by-page view of the ingested document, allowing users to scroll through the original formatting while the AI works in the background. This visual anchor is crucial for transparency, as it allows the operator to cross-reference the AI’s extracted insights directly against the source material, ensuring that page numbers and physical layouts match the indexed data.
 
-🟩 Harcoded Prompts
+🟩 <b>Harcoded Prompts</b>
 
 The final stage of the demo showcases Automated Intelligence via Hardcoded Prompts, where the power of Gemini is applied to specific business logic. We trigger two primary "One-Click" actions: a comprehensive Document Summary and a targeted "Find Amounts" query. The summary prompt instructs the LLM to condense complex clauses into actionable bullet points, while the amount extraction prompt utilizes specific reasoning to identify financial figures, fee schedules, and totals. This demonstrates how the platform moves beyond simple chat, providing structured, reliable data extraction at the push of a button.
 
-🤖Technical Deep Dive: Document Silos & Strategic Retrieval
+🤖<b>Technical Deep Dive: Document Silos & Strategic Retrieval</b>
 
 The core of the platform’s accuracy lies in its Metadata-Rich Vector Architecture. Unlike generic systems that throw all text into a single "bucket," this platform uses an Intelligent Router that classifies every uploaded page into a specific business taxonomy (e.g., Mortgage_Contract vs. Lender_Fee_Sheet). When you use the "Find Amounts" prompt, the system doesn't just perform a keyword search; it triggers a specialized Amount Extraction Pipeline:
 
-🔍 Silo-Specific Filtering: The UI selection creates a hard metadata constraint at the database layer. If you filter for "Lender Fee Sheets," the vector engine physically ignores "Pay Slips" or "Bank Statements," even if they contain similar financial terminology. This eliminates "Context Contamination" and ensures the 32k context window of Gemini 2.0 Flash is populated only with relevant data.
+🔍 <b>Silo-Specific Filtering:</b> The UI selection creates a hard metadata constraint at the database layer. If you filter for "Lender Fee Sheets," the vector engine physically ignores "Pay Slips" or "Bank Statements," even if they contain similar financial terminology. This eliminates "Context Contamination" and ensures the 32k context window of Gemini 2.0 Flash is populated only with relevant data.
 
-🔗 Deterministic Regex Hybridization: To achieve the high Faithfulness scores required for finance, the platform combines LLM reasoning with Deterministic Regex Scanners. While Gemini interprets the meaning of a fee, the Regex engine ensures every decimal-accurate figure is captured from the raw text, cross-referencing them before generating the final response.
+🔗 <b>Deterministic Regex Hybridization:</b> To achieve the high Faithfulness scores required for finance, the platform combines LLM reasoning with Deterministic Regex Scanners. While Gemini interprets the meaning of a fee, the Regex engine ensures every decimal-accurate figure is captured from the raw text, cross-referencing them before generating the final response.
 
-⭐️ Page-Level Attribution: Because the ingestion layer preserves the "Physical Layer" of the document, every amount found is tagged with a doc_id and page_num. This allows the "Find Amounts" feature to provide clickable citations, enabling a "Human-in-the-loop" to verify the AI's findings against the Document Viewer in real-time.
+⭐️ <b>Page-Level Attribution:</b> Because the ingestion layer preserves the "Physical Layer" of the document, every amount found is tagged with a doc_id and page_num. This allows the "Find Amounts" feature to provide clickable citations, enabling a "Human-in-the-loop" to verify the AI's findings against the Document Viewer in real-time.
 
 
 
