@@ -3,7 +3,7 @@
 
 ## Table of Contents
 
-- [UI WalkThrough]()
+- [UI WalkThrough](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform/blob/main/DEMO/DEMO.md#demo-ui-walkthrough)
 
 
  ## DEMO: UI WalkThrough
