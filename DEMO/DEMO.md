@@ -15,6 +15,8 @@
 
 - [Switch LLM & Mistral - Docuement Ingestion with Hardcoded Prompts](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform/blob/main/DEMO/DEMO.md#switch-llm--mistral---document-ingestion-with-hardcoded-prompts)
 
+- [Switch LLM & Phi2 - Docuement Ingestion with Hardcoded Prompts]()
+
 ---------------
 
  ## DEMO: UI WalkThrough
@@ -101,6 +103,19 @@ In this demo of the AI-Powered Document Intelligence Automation Platform 🤖, w
 The second part of the walkthrough focuses on the Document Ingestion and Indexing pipeline 📥. Watch as a complex document is uploaded and immediately put through our intelligent boundary detection system. The platform doesn't just store the text; it creates a metadata-rich index that maps out the document's structure in real-time 🔍. This indexing phase is critical because it ensures that when we query the system later, the Mistral model can retrieve the exact "Document Silos" needed without getting lost in unrelated data 🏗️.
 
 Finally, we put the system to work using Hardcoded Business Prompts 📝. Instead of typing manual queries, we trigger automated logic gates designed for professional workflows, such as high-level document summarization and precision amount extraction 💰. You will see the Mistral LLM parse the indexed data to identify key financial figures and provide a concise executive summary with zero manual intervention. This demonstration highlights how pre-configured prompts can turn a raw PDF into structured, actionable intelligence in seconds 🚀.
+
+<h1></h1>
+
+
+## Switch LLM & Phi2 - Document Ingestion with Hardcoded Prompt
+ 
+- <i>Review DEMO Video:</i> [HERE](https://youtu.be/KewimB_I_k8)
+
+In this demo of the AI-Powered Document Intelligence Automation Platform 🤖, we showcase the versatility of our Multi-LLM Switching feature by activating the Phi-2 engine 🧠. Designed by Microsoft, Phi-2 is a lightweight yet powerful model that we’ve integrated for scenarios requiring high-speed processing and low-latency extraction ⚡. You’ll see how the system’s "Hardware-Aware" architecture allows us to toggle to this local model on a T4 GPU without a hitch, using our VRAM Deep Purge logic to ensure a crash-free experience while maintaining top-tier performance 🛡️.
+
+The second part of the walkthrough demonstrates the Document Ingestion and Indexing pipeline 📥 specifically tuned for small-context models. Watch as we upload a document and the system automatically triggers its Intelligent Boundary Detection to classify and index the content into isolated "Document Silos" 🏗️. For Phi-2, our indexing logic applies specialized Metadata-Rich Chunking, ensuring that every retrieved fragment is optimized with precise page and source tags, which prevents the model from being overwhelmed by unnecessary noise 🔍.
+
+Finally, we test the efficiency of Phi-2 using Hardcoded Business Prompts 📝 tailored for rapid intelligence gathering. We trigger automated workflows for Document Summarization and a specialized Find Amounts extraction 💰. Despite its smaller size, you will see Phi-2 leverage our Model-Aware Retrieval settings to pull 8 contextual chunks instead of the standard 5, allowing it to provide accurate financial figures and concise summaries with clickable source citations 🚀. This demo highlights how even a lightweight model can deliver professional-grade RAG results when paired with a smart, metadata-driven architecture 🎯.
 
 <h1></h1>
 
