@@ -11,6 +11,8 @@
 
 - [Gemini Ingestion & Hardcoded Prompts](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform/blob/main/DEMO/DEMO.md#demo-gemini-ingestion--harcoded-prompts)
 
+- [Gemini Export Chat History PDF]()
+
 ---------------
 
  ## DEMO: UI WalkThrough
@@ -72,6 +74,17 @@ The core of the platform’s accuracy lies in its Metadata-Rich Vector Architect
 
   Because the ingestion layer preserves the "Physical Layer" of the document, every amount found is tagged with a doc_id and page_num. This allows the "Find Amounts" feature to provide clickable citations, enabling a "Human-in-the-loop" to verify the AI's findings against the Document Viewer in real-time.
 
+
+
+## DEMO: Gemini Export Chat History PDF
+ 
+- <i>Review DEMO Video:</i> [HERE](https://youtu.be/Cr7QLuYJXtQ)
+
+In this demo of the AI-Powered Document Automation Platform 🤖, we explore the Document Governance & Compliance layer of the platform by showcasing the PDF Export Functionality 📄. In production-grade AI automation, having a "black box" conversation isn't enough because enterprises require a verifiable paper trail 📑. This feature allows users to transform their entire AI-powered research session into a professional, portable document with a single click! 🖱️✨
+
+The export engine does more than just copy-paste text; it performs a Structured Data Reconstruction of the chat history 🛠️. When the export is triggered, the platform parses the conversation thread including the specific LLM used (Gemini, Mistral, or Phi-2 🧠), the retrieved document citations, and the extracted financial data 💰, and then formats it into a clean, paginated PDF. This ensures that any responses generated during the session are preserved in a fixed format that can be instantly shared with stakeholders, auditors, or legal teams ⚖️🤝.
+
+The layout for this feature is integrated directly into the Chat Operations tab 💬, featuring a dedicated "Export Session" utility that bridges the gap between dynamic AI exploration and static record-keeping 🌉. By capturing the metadata of the conversation such as timestamps and the specific document silos queried 🔍, the exported PDF serves as a comprehensive Audit Trail ✅. This ensures full transparency, allowing anyone reviewing the document to see exactly which sources the AI referenced to reach its conclusions 🎯.
 
 
 ## BELOW SECTIONS: PENDING 
