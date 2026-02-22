@@ -11,7 +11,7 @@
 
 - [Gemini Ingestion & Hardcoded Prompts](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform/blob/main/DEMO/DEMO.md#demo-gemini-ingestion--harcoded-prompts)
 
-- [Gemini Export Chat History PDF]()
+- [Gemini Export Chat History PDF](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform/blob/main/DEMO/DEMO.md#demo-gemini-export-chat-history-pdf)
 
 ---------------
 
@@ -74,7 +74,7 @@ The core of the platform’s accuracy lies in its Metadata-Rich Vector Architect
 
   Because the ingestion layer preserves the "Physical Layer" of the document, every amount found is tagged with a doc_id and page_num. This allows the "Find Amounts" feature to provide clickable citations, enabling a "Human-in-the-loop" to verify the AI's findings against the Document Viewer in real-time.
 
-
+<h1></h1>
 
 ## DEMO: Gemini Export Chat History PDF
  
