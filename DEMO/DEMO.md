@@ -79,7 +79,7 @@ The core of the platform’s accuracy lies in its Metadata-Rich Vector Architect
 
 ## DEMO: Gemini Export Chat History PDF
  
-- <i>Review DEMO Video:</i> [HERE](https://youtu.be/Cr7QLuYJXtQ)
+- <i>Review DEMO Video:</i> [HERE](https://youtu.be/JwXRt7PwbmE) 
 
 In this demo of the AI-Powered Document Automation Platform 🤖, we explore the Document Governance & Compliance layer of the platform by showcasing the PDF Export Functionality 📄. In production-grade AI automation, having a "black box" conversation isn't enough because enterprises require a verifiable paper trail 📑. This feature allows users to transform their entire AI-powered research session into a professional, portable document with a single click! 🖱️✨
 
