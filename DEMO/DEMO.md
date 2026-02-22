@@ -33,7 +33,7 @@ The first tab serves as the primary Interactive AI Workspace, featuring a clean,
 
 <br>
 
-<b>👩🏽‍💻⚙️Tab 2: RAG Configuration</b>
+<b>👩🏽‍💻⚙️Tab 2: Configuration & Filters</b>
 
 The second tab, labeled System Configuration & Metadata, provides a deep dive into the platform’s "under-the-hood" logic and data governance. It features a JSON viewer that displays the document's underlying structure and metadata tags, alongside a configuration panel for tuning the RAG engine's performance. Here, users can manually adjust chunk sizes and overlap parameters or apply strict Document Type Filters to isolate specific silos, ensuring the AI only retrieves data from relevant sources like "Lender Fee Sheets" while ignoring extraneous files.
 
