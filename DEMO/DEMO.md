@@ -15,7 +15,7 @@
 
 - [Switch LLM & Mistral - Docuement Ingestion with Hardcoded Prompts](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform/blob/main/DEMO/DEMO.md#switch-llm--mistral---document-ingestion-with-hardcoded-prompts)
 
-- [Switch LLM & Phi2 - Docuement Ingestion with Hardcoded Prompts]()
+- [Switch LLM & Phi2 - Docuement Ingestion with Hardcoded Prompts](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform/blob/main/DEMO/DEMO.md#switch-llm--phi2---document-ingestion-with-hardcoded-prompt)
 
 ---------------
 
