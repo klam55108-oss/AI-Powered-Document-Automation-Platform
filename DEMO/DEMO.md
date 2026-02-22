@@ -1,10 +1,14 @@
 # DEMO: AI-Powered Document Automation Platform
 
 
+## Table of Contents
+
+- [UI WalkThrough]()
+
+
  ## DEMO: UI WalkThrough
  
- - <b>UI Layout</b> 
-   - <i>Review DEMO:</i> [HERE](https://youtu.be/T4zju8HCFMM)
+ - <i>Review DEMO Video:</i> [HERE](https://youtu.be/T4zju8HCFMM)
       
 A quick look at the UI layout and functional design of my AI-Powered Document Intelligence Platform. This MVP is built to handle complex document structures (Real Estate, Finance, Legal) by bridging the gap between raw LLM power and granular administrative control.
 
