@@ -120,8 +120,18 @@ Finally, we test the efficiency of Phi-2 using Hardcoded Business Prompts 📝 t
 <h1></h1>
 
 
-## BELOW SECTIONS: PENDING 
+## Gemini  RAG Configuration, JSON,  & Document Type Filter
  
-- <i>Review DEMO Video:</i> [HERE]()
+- <i>Review DEMO Video:</i> [HERE](https://youtu.be/rNTbHpflirk)
+
+This technical demonstration provides a streamlined, visual-only walkthrough of the AI-Powered Document Automation Platform, focusing on high-level system transparency and advanced document governance. The video highlights the backend logic and interface design used to manage complex, multi-siloed RAG (Retrieval-Augmented Generation) environments using the Gemini 2.0 Flash engine.
+
+The Configuration & Filters tab, where the system’s "Siloed Vector Space" architecture is put into action. By toggling specific Document Type Filters, we demonstrate how the platform isolates the vector search to a specific business category—such as Mortgage Contracts or Tax Documents. This process is critical for preventing "Context Contamination," ensuring that the AI only retrieves data relevant to the selected document silo while maintaining a 100% routing confidence score.
+
+The Document Structure and Metadata Transparency layers. We visualize the logical segmentation of uploaded files, showing how the "Intelligence Layer" has successfully partitioned a bulk PDF into distinct, searchable units with clear page boundaries. The deep dive into the Raw JSON Output reveals the underlying dataclasses, including unique DocIDs and Page mappings, which serve as the foundation for the system's high-fidelity source attribution and evidence-based answers.
+
+The structured metadata objects facilitate professional document auditing. By peeling back the UI, we see that the AI isn't just generating text; it is performing precise queries against a highly structured knowledge brain. This "Glass Box" approach allows human auditors to verify the RAG Triad—Faithfulness, Relevance, and Context Density—directly through the dashboard, ensuring full transparency in automated business workflows.
+
+<h1></h1>
 
 
