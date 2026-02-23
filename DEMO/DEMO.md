@@ -17,7 +17,7 @@
 
 - [Switch LLM & Phi2 - Docuement Ingestion with Hardcoded Prompts](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform/blob/main/DEMO/DEMO.md#demo-switch-llm--phi2---document-ingestion-with-hardcoded-prompt)
 
-- [Gemini  RAG Configuration, JSON,  & Document Type Filter](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform/blob/main/DEMO/DEMO.md#gemini--rag-configuration-json---document-type-filter)
+- [Gemini  RAG Configuration, JSON,  & Document Type Filter](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform/blob/main/DEMO/DEMO.md#demo-gemini--rag-configuration-json---document-type-filter)
 
 ---------------
 
