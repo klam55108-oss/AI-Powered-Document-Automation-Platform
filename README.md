@@ -155,7 +155,7 @@ This practical experience has solidified my ability to move beyond theoretical c
 
 ### 🟩 Sprint 9 (S9)
   - <b>AI-Powered Document Automation Platform:</b> Final Integration. Building the End-to-End AI System	Assembling all components into a complete, rigorously tested, and evaluated platform ready for demonstration and deployment.
-  - <i>Status Update:</i> [Sprint 9(S9)]()
+  - <i>Status Update:</i> [Sprint 9(S9)](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform/blob/main/Status%20Updates/Status%20Update%20Sprint%209%20%20AI-Powered%20Document%20Automation%20Platform.pdf)
   - <i>view:</i> [Colab Notebook: AI-Powered Document Auotmation Platform](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform/blob/main/src/AI_Powered_Document_Intelligence_Automation_Platform_MVP.ipynb)
   - <b>Review DEMO:</b> [MVP Demos](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform/blob/main/DEMO/DEMO.md)
 
