@@ -17,6 +17,8 @@
 
 - [Switch LLM & Phi2 - Docuement Ingestion with Hardcoded Prompts](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform/blob/main/DEMO/DEMO.md#switch-llm--phi2---document-ingestion-with-hardcoded-prompt)
 
+- [Gemini  RAG Configuration, JSON,  & Document Type Filter](https://github.com/LashawnFofung/AI-Powered-Document-Automation-Platform/blob/main/DEMO/DEMO.md#gemini--rag-configuration-json---document-type-filter)
+
 ---------------
 
  ## DEMO: UI WalkThrough
@@ -94,7 +96,7 @@ The layout for this feature is integrated directly into the Chat Operations tab 
 <h1></h1>
 
 
-## Switch LLM & Mistral - Document Ingestion with Hardcoded Prompts
+## DEMO: Switch LLM & Mistral - Document Ingestion with Hardcoded Prompts
  
 - <i>Review DEMO Video:</i> [HERE](https://youtu.be/_qzGlJbhN5U)
 
@@ -107,7 +109,7 @@ Finally, we put the system to work using Hardcoded Business Prompts 📝. Instea
 <h1></h1>
 
 
-## Switch LLM & Phi2 - Document Ingestion with Hardcoded Prompt
+## DEMO: Switch LLM & Phi2 - Document Ingestion with Hardcoded Prompt
  
 - <i>Review DEMO Video:</i> [HERE](https://youtu.be/KewimB_I_k8)
 
@@ -120,7 +122,7 @@ Finally, we test the efficiency of Phi-2 using Hardcoded Business Prompts 📝 t
 <h1></h1>
 
 
-## Gemini  RAG Configuration, JSON,  & Document Type Filter
+## DEMO: Gemini  RAG Configuration, JSON,  & Document Type Filter
  
 - <i>Review DEMO Video:</i> [HERE](https://youtu.be/rNTbHpflirk)
 
